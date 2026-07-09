@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/upwork-clone → Demo se
 Most upwork clone scripts stop at basic features. This platform ships with the features that actually run a *business*:
 
 - **Milestone Escrow** — release payments per milestone — same escrow flow Upwork built its $5B/year GMV on
-- **Tiered Seller Levels** — 
-- **1-Tap Proposal Builder** — automatic level-up based on earnings + ratings (New → Level 1 → Top Rated → Pro) — mirrors Upwork's seller tier program
-- **Multi-Category Gig System** — AI pre-triages disputes by reading chat, deliverables, and policy — human review for 5% of cases, resolution in 24h
-- **AI Dispute Resolution** — predefined 100+ categories with structured deliverables — what makes Fiverr's catalog browseable
+- **Tiered Seller Levels** — automatic level-up based on earnings + ratings (New → Level 1 → Top Rated → Pro) — mirrors Upwork's seller tier program
+- **1-Tap Proposal Builder** — sellers generate proposals in under 60 seconds with AI assistance — including gig-specific boilerplate
+- **Multi-Category Gig System** — predefined 100+ categories with structured deliverables — what makes Fiverr's catalog browseable
+- **AI Dispute Resolution** — AI pre-triages disputes by reading chat, deliverables, and policy — human review for 5% of cases, resolution in 24h
 
 ## 📦 Core Features
 
